@@ -1,0 +1,11 @@
+.ck-customtag {
+    color: #000;
+    border-bottom: solid 2px #000;
+}
+
+.ck-customtag .ck-customtag-icon svg {
+    width: var(--ck-icon-size);
+    height: var(--ck-icon-size);
+    font-size: .55em;
+    will-change: transform;
+}
