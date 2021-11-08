@@ -11,12 +11,12 @@
     "plugin"
   ],
   "dependencies": {
-    "@ckeditor/ckeditor5-core": "^30.0.0",
     "@ckeditor/ckeditor5-ui": "^30.0.0",
-    "@ckeditor/ckeditor5-widget": "^30.0.0",
     "ckeditor5": "^30.0.0"
   },
   "devDependencies": {
+    "@ckeditor/ckeditor5-core": "^30.0.0",
+    "@ckeditor/ckeditor5-widget": "^30.0.0",
     "@ckeditor/ckeditor5-dev-utils": "^25.4.0",
     "@ckeditor/ckeditor5-theme-lark": "^30.0.0",
     "webpack": "^4.43.0",
