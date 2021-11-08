@@ -1,6 +1,6 @@
 {
   "name": "ckeditor5-customtag",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Insert custom tag with content and attributes from form in ckeditor5",
   "main": "src/index.js",
   "keywords": [
